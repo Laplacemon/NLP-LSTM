@@ -6,4 +6,4 @@
 
 ### LSTM神经网络
 长短期记忆 (long short-term memory, LSTM)神经网络引入了 3 个门，输入门(input gate)、遗忘门 (forget gate)和输出门 (output gate)，以及与隐藏状态形状相同的记忆细胞，从而记录额外的信息。下图是标准的 LSTM 网络：
-
+- ![image](https://github.com/Laplacemon/NLP-LSTM/blob/main/img/LSTM-Nework.png)
